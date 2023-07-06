@@ -335,3 +335,6 @@ https://universe.roboflow.com/pytheia/warehouse-v2
 
 
 https://universe.roboflow.com/luzuko/forklift-person-detector
+
+
+https://github.com/bhadreshpsavani/CarPartsDetectionChallenge
