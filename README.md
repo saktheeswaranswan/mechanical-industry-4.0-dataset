@@ -1,5 +1,32 @@
 # mechanical-industry-4.0-dataset
 
+https://universe.roboflow.com/gvp-gw9zx/gvp/dataset/18/download
+
+https://universe.roboflow.com/diana-usgwm/guage_plus_my_gauge/images/1GWta8UI45hYAHJ613fO
+
+
+https://universe.roboflow.com/diana-usgwm/gauge-digits/images/48XPjwiRcYHBWiT9tZIo
+
+
+https://universe.roboflow.com/hitax-will2/ocr-small
+
+
+https://universe.roboflow.com/nattapat-kieuvongngam-rup1a/hydraulic-components-detection
+
+https://universe.roboflow.com/ayush-grover/car-dects-new/dataset/1
+
+https://universe.roboflow.com/alan-lampert-xfmhr/car-damage-detector
+
+big car damage
+
+https://universe.roboflow.com/alan-lampert-xfmhr/car-damage-detector/dataset/1/download
+
+best big car damage datset
+
+https://universe.roboflow.com/skillfactory/car-damage-c1f0i
+
+https://universe.roboflow.com/skillfactory/car-damage-c1f0i
+
 https://universe.roboflow.com/nattapat-kieuvongngam-rup1a/hydraulic-components-detection
 
 clutch fault
